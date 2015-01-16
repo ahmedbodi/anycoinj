@@ -5,3 +5,8 @@ target
 .idea
 *.iml
 Thumbs.db
+*.chain
+*.spvchain
+*.wallet
+tags
+*.sw*
